@@ -1,4 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "Blue Topaz"
+  "cssTheme": "Blue Topaz",
+  "interfaceFontFamily": "ComicShannsMono Nerd Font Mono",
+  "textFontFamily": "ComicShannsMono Nerd Font Mono",
+  "monospaceFontFamily": "ComicShannsMono Nerd Font Mono",
+  "translucency": true
 }
