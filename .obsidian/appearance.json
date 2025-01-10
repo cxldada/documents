@@ -4,5 +4,6 @@
   "interfaceFontFamily": "ComicShannsMono Nerd Font Mono",
   "textFontFamily": "ComicShannsMono Nerd Font Mono",
   "monospaceFontFamily": "ComicShannsMono Nerd Font Mono",
-  "translucency": true
+  "translucency": true,
+  "theme": "obsidian"
 }
