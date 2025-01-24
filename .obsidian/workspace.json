@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fc809e9bc4ce6729",
+        "id": "4313df433a5e7941",
         "type": "tabs",
         "children": [
           {
-            "id": "84ca99023b605b7a",
+            "id": "edd91195933c5aea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "UNIX环境高级编程/UNIX标准及实现.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "UNIX标准及实现"
             }
           }
         ]
@@ -135,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIX环境高级编程/系统概览.md"
+                "file": "UNIX环境高级编程/UNIX标准及实现.md"
               },
               "icon": "lucide-list",
-              "title": "系统概览 的大纲"
+              "title": "UNIX标准及实现 的大纲"
             }
           }
         ],
@@ -159,8 +163,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "84ca99023b605b7a",
+  "active": "edd91195933c5aea",
   "lastOpenFiles": [
+    "ISO C标准.md",
+    "UNIX环境高级编程/UNIX标准及实现.md",
     "UNIX环境高级编程/系统概览.md",
     "README.md",
     "UNIX环境高级编程",
