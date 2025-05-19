@@ -11,10 +11,14 @@
             "id": "def8ba5dc0a5b949",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "UNIX环境高级编程/线程控制/线程特定数据.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "线程特定数据"
             }
           }
         ]
@@ -40,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "UNIX环境高级编程/线程控制/线程特定数据.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Outline of 线程特定数据"
             }
           }
         ],
@@ -149,20 +154,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "def8ba5dc0a5b949",
+  "active": "a7cd0eed922152d7",
   "lastOpenFiles": [
+    "UNIX环境高级编程/线程控制",
+    "UNIX环境高级编程/线程控制/线程特定数据.md",
     "深入理解计算机系统/信息的表示和处理.md",
     "UNIX环境高级编程/文件IO.md",
     "深入理解计算机系统",
