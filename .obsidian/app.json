@@ -1,5 +1,6 @@
 {
   "showLineNumber": true,
   "vimMode": true,
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "attachmentFolderPath": "./attachments"
 }
