@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2617f3e3ad289a5c",
+        "id": "096b37910ffe4e0e",
         "type": "tabs",
         "children": [
           {
-            "id": "552326b108c9a204",
+            "id": "b0fe5d5220b24aec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIX环境高级编程/13. 守护进程/2. 守护进程的特征.md",
+                "file": "UNIX环境高级编程/13. 守护进程/5. 单实例守护进程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. 守护进程的特征"
+              "title": "5. 单实例守护进程"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -159,21 +159,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "552326b108c9a204",
+  "active": "b0fe5d5220b24aec",
   "lastOpenFiles": [
+    "UNIX环境高级编程/13. 守护进程/5. 单实例守护进程.md",
+    "UNIX环境高级编程/13. 守护进程/attachments/Pasted image 20250522162553.png",
+    "UNIX环境高级编程/13. 守护进程/attachments/Pasted image 20250522162542.png",
+    "UNIX环境高级编程/13. 守护进程/attachments/Pasted image 20250522153920.png",
+    "UNIX环境高级编程/13. 守护进程/attachments/Pasted image 20250522121710.png",
     "UNIX环境高级编程/13. 守护进程/attachments/Pasted image 20250521222344.png",
     "UNIX环境高级编程/13. 守护进程/attachments/Pasted image 20250521222314.png",
+    "UNIX环境高级编程/13. 守护进程/4. 出错记录.md",
+    "UNIX环境高级编程/13. 守护进程/attachments/Pasted image 20250522151316.png",
+    "UNIX环境高级编程/13. 守护进程/3. 编程规则.md",
+    "UNIX环境高级编程/13. 守护进程/2. 守护进程的特征.md",
     "UNIX环境高级编程/13. 守护进程/attachments",
     "Pasted image 20250521222118.png",
-    "UNIX环境高级编程/13. 守护进程/2. 守护进程的特征.md",
     "UNIX环境高级编程/13. 守护进程/1. 引言.md",
     "UNIX环境高级编程/12. 线程控制/6. 线程特定数据.md",
     "UNIX环境高级编程/13. 守护进程",
