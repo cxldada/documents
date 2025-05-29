@@ -11,10 +11,14 @@
             "id": "3df0c32a2a711bf6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "UNIX环境高级编程/7. 进程环境/10. 函数setjmp和longjmp.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "10. 函数setjmp和longjmp"
             }
           }
         ]
@@ -40,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -136,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIX环境高级编程/线程控制/线程特定数据.md",
+                "file": "UNIX环境高级编程/7. 进程环境/10. 函数setjmp和longjmp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 线程特定数据"
+              "title": "Outline of 10. 函数setjmp和longjmp"
             }
           }
         ],
@@ -155,16 +159,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "3df0c32a2a711bf6",
   "lastOpenFiles": [
+    "UNIX环境高级编程/7. 进程环境/attachments/Pasted image 20250529181112.png",
+    "UNIX环境高级编程/7. 进程环境/attachments/Pasted image 20250529180004.png",
+    "UNIX环境高级编程/7. 进程环境/attachments/Pasted image 20250529165958.png",
     "UNIX环境高级编程/7. 进程环境/10. 函数setjmp和longjmp.md",
     "UNIX环境高级编程/7. 进程环境/9. 环境变量.md",
     "UNIX环境高级编程/7. 进程环境/5. 环境表.md",
@@ -186,8 +193,6 @@
     "UNIX环境高级编程/7. 进程环境/1. 引言.md",
     "UNIX环境高级编程/13. 守护进程/5. 单实例守护进程.md",
     "UNIX环境高级编程/7. 进程环境",
-    "UNIX环境高级编程/13. 守护进程/attachments/Pasted image 20250522162553.png",
-    "UNIX环境高级编程/13. 守护进程/attachments/Pasted image 20250522162542.png",
     "UNIX环境高级编程/13. 守护进程/4. 出错记录.md",
     "UNIX环境高级编程/13. 守护进程/3. 编程规则.md",
     "UNIX环境高级编程/13. 守护进程/2. 守护进程的特征.md",
