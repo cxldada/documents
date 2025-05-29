@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIX环境高级编程/7. 进程环境/10. 函数setjmp和longjmp.md",
+                "file": "UNIX环境高级编程/7. 进程环境/11. 函数getrlimit和setrlimit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. 函数setjmp和longjmp"
+              "title": "11. 函数getrlimit和setrlimit"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c1eb775f0b974467",
@@ -159,20 +160,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
   "active": "3df0c32a2a711bf6",
   "lastOpenFiles": [
+    "UNIX环境高级编程/7. 进程环境/attachments/Pasted image 20250529220947.png",
+    "UNIX环境高级编程/7. 进程环境/attachments/Pasted image 20250529220927.png",
+    "UNIX环境高级编程/7. 进程环境/attachments/Pasted image 20250529214315.png",
+    "UNIX环境高级编程/7. 进程环境/10. 函数setjmp和longjmp.md",
+    "UNIX环境高级编程/7. 进程环境/11. 函数getrlimit和setrlimit.md",
     "UNIX环境高级编程/7. 进程环境/attachments/Pasted image 20250529181112.png",
     "UNIX环境高级编程/7. 进程环境/attachments/Pasted image 20250529180004.png",
     "UNIX环境高级编程/7. 进程环境/attachments/Pasted image 20250529165958.png",
-    "UNIX环境高级编程/7. 进程环境/10. 函数setjmp和longjmp.md",
     "UNIX环境高级编程/7. 进程环境/9. 环境变量.md",
     "UNIX环境高级编程/7. 进程环境/5. 环境表.md",
     "UNIX环境高级编程/7. 进程环境/6. C程序的存储空间布局.md",
@@ -183,11 +188,8 @@
     "UNIX环境高级编程/7. 进程环境/attachments/Pasted image 20250528155518.png",
     "UNIX环境高级编程/7. 进程环境/attachments/Pasted image 20250528155449.png",
     "UNIX环境高级编程/7. 进程环境/attachments/Pasted image 20250528133032.png",
-    "UNIX环境高级编程/7. 进程环境/attachments/Pasted image 20250528132809.png",
-    "UNIX环境高级编程/7. 进程环境/attachments/Pasted image 20250528131004.png",
     "UNIX环境高级编程/7. 进程环境/4. 命令行参数.md",
     "UNIX环境高级编程/7. 进程环境/3. 进程终止.md",
-    "UNIX环境高级编程/7. 进程环境/attachments/Pasted image 20250527220655.png",
     "UNIX环境高级编程/7. 进程环境/attachments",
     "UNIX环境高级编程/7. 进程环境/2. main函数.md",
     "UNIX环境高级编程/7. 进程环境/1. 引言.md",
